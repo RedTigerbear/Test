@@ -1,10 +1,8 @@
 # Test
 
-''' {this is long code}
-
-<rcode>
-
-<code>
-'''
+```{r simulate_data}
+x <- rnorm(100)
+y <- 2*x + rnorm(100)
+```
 
 test
